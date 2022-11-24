@@ -1,0 +1,706 @@
+body{
+    /* Rectangle 1 */
+width: 1440px;
+height: 4000px;
+left: 0px;
+top: 0px;
+
+background: #121921;
+font-family: 'Open Sans', sans-serif;
+}
+
+header nav img{
+
+
+    position: absolute;
+    width: 93px;
+    height: 89px;
+    margin-left: 160px;
+    top: 96px;
+
+}
+
+.nav_buttons{
+    /* Basic Info */
+width: 169px;
+height: 41px;
+margin-left: 307px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+min-width: 696px;
+padding-top: 20px;
+justify-content: space-between;
+}
+
+.nav_buttons h2{
+    top: 76px;
+    margin-left: 120px;
+
+}
+.nav_buttons h2 a{
+    display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.nav_buttons h2 :hover{
+    color: rgb(15, 133, 166);
+    transition-delay: 0,3ms;
+}
+
+#basicin{
+    /* Basic Info */
+
+
+position: absolute;
+width: 289px;
+height: 41px;
+left: 307px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+}
+
+#summa{
+
+position: absolute;
+width: 172px;
+height: 41px;
+left: 524px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+}
+
+#skil{
+    /* Skills */
+
+
+position: absolute;
+width: 98px;
+height: 41px;
+left: 752px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+#edu{
+    /* Education */
+
+
+position: absolute;
+width: 172px;
+height: 41px;
+left: 893px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+#fri{
+
+
+position: absolute;
+width: 133px;
+height: 41px;
+left: 1110px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+
+
+.basic_info{
+    
+height: 666px;
+left: 76px;
+margin-top: -30px;
+}
+#myimage img{
+    /* Rectangle 2 */
+    position: absolute;
+    width: 405px;
+    height: 418px;
+    left: 106px;
+    top: 489px;
+
+    border-radius: 48px;
+}
+.basic_info h2{
+    /* Basic Info */
+
+
+position: absolute;
+width: 169px;
+height: 41px;
+left: 172px;
+top: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+}
+
+#name img{
+    /* icons8-name-tag-100 (1) */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 569px;
+top: 509px;
+}
+
+#name p{
+    /* Osunjuyigbe Oluwaferanmi Olayinkaa */
+
+
+position: absolute;
+width: 633px;
+height: 49px;
+left: 620px;
+top: 473px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#address img{
+    /* icons8-visit-100 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 568px;
+top: 578px;
+}
+
+#address p{
+    /* 1, Sule Giwa Lane, Akure, Ondo State 340110 */
+
+
+position: absolute;
+width: 752px;
+height: 49px;
+left: 620px;
+top: 538px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+#phone img{
+    /* icons8-phone-100 */
+
+
+position: absolute;
+width: 42px;
+height: 48px;
+left: 570px;
+top: 650px;
+}
+
+#phone p{
+    /* 08132402823 */
+
+
+position: absolute;
+width: 227px;
+height: 49px;
+left: 669px;
+top: 619px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#nationality img{
+    /* icons8-passport-100 (1) */
+
+
+position: absolute;
+width: 40px;
+height: 48px;
+left: 954px;
+top: 650px;
+
+}
+
+#nationality p{
+    /* Nigerian */
+
+
+position: absolute;
+width: 142px;
+height: 49px;
+left: 1065px;
+top: 619px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#email img{
+    /* icons8-mail-100 */
+
+
+position: absolute;
+width: 40px;
+height: 35px;
+left: 569px;
+top: 735px;
+
+}
+
+#email p{
+    /* osunjuyigbeiyin@gmail.com */
+
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 669px;
+top: 691px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+#linkedin img{
+    /* icons8-linkedin-2-100 */
+
+
+position: absolute;
+width: 48px;
+height: 52px;
+left: 569px;
+top: 807px;
+}
+
+#linkedin p{
+    /* www.linkedin.com/in /oluwaferanmi-osunjuyigbe12 */
+
+
+position: absolute;
+width: 502px;
+height: 98px;
+left: 669px;
+top: 753px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+
+.sumary{
+    
+height: 326px;
+left: 35px;
+margin-top: 440px;
+}
+
+
+
+
+.sumary h2{
+    
+position: absolute;
+width: 172px;
+height: 41px;
+left: 172px;
+margin-top: 10px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+.sumary p{
+    
+position: absolute;
+width: 1221px;
+height: 196px;
+left: 110px;
+margin-top: 70px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
+.Skills{
+    
+height: 466px;
+left: 19px;
+margin-top: 250px;
+}
+
+
+
+.Skills h2{
+
+position: absolute;
+width: 98px;
+height: 41px;
+left: 207px;
+margin-top: 10px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+}
+
+.Skills ul {
+    position: absolute;
+width: 543px;
+left: 162px;
+margin-top: 60px;
+
+
+}
+
+.Skills ul li{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    
+    color: #FFFFFF;
+}
+
+
+.educ{
+    
+height: 200px;
+left: 19px;
+margin-top: 200px;
+}
+
+
+.educ h2{
+    /* Education */
+
+
+position: absolute;
+width: 172px;
+height: 41px;
+left: 169px;
+margin-top: 10px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+}
+
+.educ p{
+    /* Babcock University, Ilisan, Remo, Expected in 07/2024 Bachelor of Science: Software Engineering */
+
+
+position: absolute;
+width: 936px;
+height: 98px;
+left: 162px;
+margin-top: 60px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+}
+
+
+
+
+.friend{
+
+height: 1044px;
+left: 19px;
+margin-top: 150px;
+}
+
+.friend h2{
+    /* Friends */
+
+
+position: absolute;
+width: 133px;
+height: 41px;
+left: 190px;
+margin-top: 10px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #FFFFFF;
+
+}
+
+.friend figure img{
+    margin-top: 50px;
+    margin-left: 80px;
+    width: 400px;
+height: 400px;
+}
+
+.friend figure figcaption{
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+
+#favour img{
+    /* Rectangle 3 */
+
+
+position: absolute;
+left: 161px;
+margin-top: 70px;
+
+background: #D9D9D9;
+border-radius: 26px;
+}
+
+#favour figcaption{
+    /* Text */
+
+
+position: absolute;
+width: 72px;
+height: 49px;
+left: 314px;
+top: 3243px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#ray img{
+    /* Rectangle 4 */
+
+
+position: absolute;
+
+left: 827px;
+margin-top: 50px;
+
+background: #D9D9D9;
+border-radius: 27px;
+}
+
+#ray figcaption{
+    /* Text */
+
+
+position: absolute;
+width: 72px;
+height: 49px;
+left: 991px;
+top: 3243px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#ade img{
+    /* Rectangle 5 */
+
+
+position: absolute;
+
+left: 161px;
+margin-top: 600px;
+
+background: #D9D9D9;
+border-radius: 23px;
+}
+
+#ade figcaption{
+    /* Text */
+
+
+position: absolute;
+width: 72px;
+height: 49px;
+left: 314px;
+margin-top: 1050px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#wura img{
+    /* Rectangle 6 */
+
+
+position: absolute;
+
+left: 827px;
+margin-top: 600px;
+
+background: #D9D9D9;
+border-radius: 28px;
+
+}
+
+#wura figcaption{
+    
+position: absolute;
+width: 72px;
+height: 49px;
+left: 991px;
+margin-top: 1050px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
